@@ -201,8 +201,3 @@ void macro(){
     }
 }
 
-int main(){
-    macro();//debugar! remover isso depois 
-    
-    return 0;
-}
